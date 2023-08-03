@@ -1,2 +1,2 @@
 # sitioWebTuServieces
-Es un sitio de filnca Raiz y servilcios relacionados
+Es un sitio creado para el area de Finca Raiz y servilcios relacionados
